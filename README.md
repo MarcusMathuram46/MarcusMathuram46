@@ -9,9 +9,9 @@ Aspiring Full Stack Developer proficient in MERN stack technologies, seeking<br>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marcusmathuram46&theme=dark&hide_border=falses&how_icons=true&locale=en)<br/>
+![](https://github-readme-stats.vercel.app/api?username=marcusmathuram46&theme=dark&hide_border=falses&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marcusmathuram46&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=marcusmathuram46&theme=dark&hide_border=false&show_icons=true&locale=en)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusmathuram46&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
